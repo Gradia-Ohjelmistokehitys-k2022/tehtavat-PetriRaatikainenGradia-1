@@ -7,6 +7,8 @@ Opittavat tiedot ja taidot: Englannin opiskelua, tiedonetsintää ja rajapinnan 
 
 Englanninkielinen esimerkkitehtävä : (linkki ei toimi 2024, odota, niin etsin sen siällön) https://vincit.fi/risingstar/Vincit-Rising-Star-2021-Pre-assignment.pdf   
 
+Ohessa vincitpreassignment.md, josta löytyy tehtävän ohjeet.
+
 
 **T2.2** Sevitä edellä suomentamasi tehtävän avulla alla olevan coingecko-rajapinnan bitcoin-haun ***from*** ja ***to*** -kenttien arvojen merkitys. Miten käsittelet niihin liityviä arvoja c#:ssa?
 
