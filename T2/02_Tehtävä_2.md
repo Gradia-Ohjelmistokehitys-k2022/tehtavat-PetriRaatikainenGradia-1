@@ -12,8 +12,7 @@ Ohessa vincitpreassignment.md, josta löytyy tehtävän ohjeet.
 
 **T2.2** Sevitä edellä suomentamasi tehtävän avulla alla olevan coingecko-rajapinnan bitcoin-haun ***from*** ja ***to*** -kenttien arvojen merkitys. Miten käsittelet niihin liityviä arvoja c#:ssa?
 
-Malli bitcoin-hausta: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=eur&from=1577836800&to=1677836800
-
+Malli bitcoin-hausta: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=eur&from=1729814400&to=1732496400
 
 
 
